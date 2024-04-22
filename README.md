@@ -1,1 +1,1 @@
-# P5-PrintIt-EVN
+# P5-JS-PrintIt-EVN
